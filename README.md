@@ -26,3 +26,5 @@ CanBus
   
      
 ![Artilley X1 Switchwire conversion v51](https://github.com/user-attachments/assets/d0693d2d-cb69-4085-a800-aaf0207d28d4)
+![front](https://github.com/user-attachments/assets/8c070d57-c232-4805-9610-9f7ef15c277e)
+![side](https://github.com/user-attachments/assets/65fe941e-e3ff-4bdc-aa8e-1f998d695248)
