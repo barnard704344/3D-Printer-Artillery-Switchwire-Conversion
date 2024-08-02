@@ -18,4 +18,7 @@ CanBus
   - BTT Eddy coil U2c
   - MGN 9 Rails for X and Z
   - Raspberry Pi 2 or 3 or 4 or 5
+ 
+  
      
+![Artilley X1 Switchwire conversion v51](https://github.com/user-attachments/assets/d0693d2d-cb69-4085-a800-aaf0207d28d4)
