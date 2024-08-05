@@ -1,4 +1,4 @@
-# Artillery-Switchwire
+# ArtilleryX1-Switchwire
 
 Repository to document my journey to convert my X1 to a Voron switchwire
 
