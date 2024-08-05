@@ -4,7 +4,7 @@ Repository to document my journey to convert my X1 to a Voron switchwire
 
 Work in progress at this stage 
 
-Artillery conversion to Voron Switchwire
+
 
 The plan:
 keep the following:
@@ -13,10 +13,12 @@ keep the following:
   - Y motion
   - Z steppers
   - mks gen L board and electronics
+  - Optical endstop on Z and Y
 
 To add:
 - Voron Stealthburner
 - Voron revo hotend
+- micro switch for X on toolhead
   
 CanBus
   - BTT U2C USB bridge
