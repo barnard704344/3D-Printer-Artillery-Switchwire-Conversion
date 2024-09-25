@@ -9,7 +9,7 @@ Work in progress at this stage
 The plan:
 keep the following:
   - base and frame
-  - heatbed and glass bed
+  - heatbed and glass bed *WIll need a steel sprung plate for Eddy sensor
   - Y motion
   - Z steppers
   - mks gen L board and electronics
@@ -25,7 +25,10 @@ CanBus
   - BTT EBB sb2209 or Rp2040
   - BTT Eddy coil U2c
   - MGN 9 Rails for X and Z
-  - Raspberry Pi 2 or 3 or 4 or 5
+  - MGN 12 Rail for Y
+  - Raspberry Pi 4
+  - 5 Inch HDMI Touch screen
+  - 5 volt meanwell power supply for Raspberry Pi
 
 BOM List
 
