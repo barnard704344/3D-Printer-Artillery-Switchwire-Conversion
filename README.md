@@ -2,14 +2,18 @@
 
 Repository to document my journey to convert my X1 to a Voron switchwire
 
-STL's are largely complete, just a few final tests on the HDMI screen holder. I have sourced/updated, created everything needed to print out, with the exception of the stealthburner.
-Which is here: https://github.com/VoronDesign/Voron-Stealthburner
-You will also need the BTT cable holders for the canbus cable:
-https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN/STL
-Namely the CW2 cable bridge and printed part for can cable
+### STL's are largely complete, just a few final tests on the HDMI screen holder. 
+I have sourced/updated, created everything needed to print out, with the exception of the stealthburner.
+https://github.com/VoronDesign/Voron-Stealthburner
 
-
-
+### You will also need the BTT cable holders for the canbus cable: 
+"CW2 cable bridge" and "printed part for can cable" <br>
+https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN/STL 
+<br>
+<br>
+<br>
+<br>
+<br>
 The plan:
 keep the following:
   - base and frame
@@ -38,9 +42,7 @@ BOM List
 
   -TBA
 
-Links
-
-  -TBA
+![Switchwire](images/image1.png)
 
  
   
