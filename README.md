@@ -49,7 +49,11 @@ keep the following:
   - 400mm cut to 380mm 
 
 ![Switchwire](images/image1.png)
-
+![Switchwire](images/image2.png)
+![Switchwire](images/image3.png)
+![Switchwire](images/image4.png)
+![Switchwire](images/image5.png)
+![Switchwire](images/image6.png)
  
   
      
