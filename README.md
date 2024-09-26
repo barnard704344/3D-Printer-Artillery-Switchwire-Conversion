@@ -14,7 +14,7 @@ https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN/STL
 <br>
 <br>
 <br>
-The plan:
+### The plan:
 keep the following:
   - base and frame
   - heatbed and glass bed *WIll need a steel sprung plate for Eddy sensor
@@ -23,18 +23,24 @@ keep the following:
   - mks gen L board and electronics
   - Optical endstop on Z and Y
 
-To add:
+### To add:
 - Voron Stealthburner
 - Voron revo hotend
 - micro switch for X on toolhead
   
-CanBus
+### CanBus
   - BTT U2C USB bridge
   - BTT EBB sb2209 or Rp2040
+    - I used a RP2040 as the JST connectors are bigger (I still bought pre crimped pigtails though) 
   - BTT Eddy coil U2c
+    
   - MGN 9 Rails for X and Z
+    - 450mm
   - MGN 12 Rail for Y
+    - 350mm - cut down to 340mm 
   - Raspberry Pi 4
+      - Standard RPI install with KIAUH install script to install mainsail, klipperscreen, crowsnest etc.
+        - https://github.com/dw-0/kiauh
   - 5 Inch HDMI Touch screen
   - 5 volt meanwell power supply for Raspberry Pi
 
