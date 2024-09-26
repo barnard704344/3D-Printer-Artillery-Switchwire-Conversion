@@ -44,9 +44,9 @@ keep the following:
   - 5 Inch HDMI Touch screen
   - 5 volt meanwell power supply for Raspberry Pi
 
-BOM List
-
-  -TBA
+### 2020 Vslot rail  
+  This replaces the 2060 X gantry
+  - 400mm cut to 380mm 
 
 ![Switchwire](images/image1.png)
 
