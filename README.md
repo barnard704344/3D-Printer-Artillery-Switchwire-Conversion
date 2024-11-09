@@ -11,6 +11,8 @@ https://github.com/VoronDesign/Voron-Stealthburner
 https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN/STL 
 <br>
 <br>
+### I used these clips on the canbus cable and bowden tube:
+https://www.printables.com/model/741489-bowden-tube-and-canbus-usb-cable-support-clips/files
 <br>
 <br>
 <br>
