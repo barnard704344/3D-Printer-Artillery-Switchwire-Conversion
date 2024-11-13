@@ -16,6 +16,11 @@ https://www.printables.com/model/741489-bowden-tube-and-canbus-usb-cable-support
 <br>
 <br>
 <br>
+### I also used these cable clips for the CanBus wiring 
+https://www.printables.com/model/538726-voron-2020-aluminum-profile-cable-clip-bigger-size
+<br>
+<BR>
+<br>
 ### The plan:
 keep the following:
   - base and frame
@@ -32,10 +37,9 @@ keep the following:
   
 ### CanBus
   - BTT U2C USB bridge
-  - BTT EBB sb2209 or Rp2040
-    - I used a RP2040 as the JST connectors are bigger (I still bought pre crimped pigtails though) 
-  - BTT Eddy coil U2c
-    
+  - BTT EBB sb2209 rp2040
+  - BTT Eddy coil i2c
+    - i could not get i2c to work through the RP2040, so i used the rpi as a mcu and ran a wire from that.   
   - MGN 9 Rails for X and Z
     - 450mm
   - MGN 12 Rail for Y
@@ -43,8 +47,8 @@ keep the following:
   - Raspberry Pi 4
       - Standard RPI install with KIAUH install script to install mainsail, klipperscreen, crowsnest etc.
         - https://github.com/dw-0/kiauh
-  - 5 Inch HDMI Touch screen
-  - 5 volt meanwell power supply for Raspberry Pi
+  - 5 Inch LCD
+  - 5 volt Meanwell power supply for Raspberry Pi
 
 ### 2020 Vslot rail  
   This replaces the 2060 X gantry
