@@ -2,7 +2,7 @@
 
 Repository to document my journey to convert my X1 to a Voron switchwire
 
-### STL's are largely complete, just a few final tests on the HDMI screen holder. 
+### STL's are largely complete
 I have sourced/updated, created everything needed to print out, with the exception of the stealthburner.
 https://github.com/VoronDesign/Voron-Stealthburner
 
@@ -38,8 +38,8 @@ keep the following:
 ### CanBus
   - BTT U2C USB bridge
   - BTT EBB sb2209 rp2040
-  - BTT Eddy coil i2c
-    - i could not get i2c to work through the RP2040, so i used the rpi as a mcu and ran a wire from that.   
+  - BTT Eddy Duo (Canbus or USB)
+    - I had a Eddy coil, so i wired that straight through to the Raspberry pi as the toolhead did not have i2c.   
   - MGN 9 Rails for X and Z
     - 450mm
   - MGN 12 Rail for Y
