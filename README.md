@@ -55,7 +55,20 @@ keep the following:
 
 ### 2020 Vslot rail  
   This replaces the 2060 X gantry
-  - 400mm cut to 380mm 
+  - 400mm cut to 380mm
+
+### Screws etc
+- M5 x 45 = 4
+- M5 x 16 = lots
+- M5 x 30 = 6
+- M3 x 12 = lots
+- M3 Drop in place t nuts
+- M5 Drop inplace t nuts
+
+### Bearings 
+F695-2rs = 16
+Gt2 Belt = 5 metres
+
 
 ![Switchwire](images/image1.png)
 ![Switchwire](images/image2.png)
