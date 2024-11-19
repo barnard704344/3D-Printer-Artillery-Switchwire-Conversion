@@ -65,9 +65,9 @@ keep the following:
 - M3 Drop in place t nuts
 - M5 Drop inplace t nuts
 
-### Bearings 
-F695-2rs = 16
-Gt2 Belt = 5 metres
+### Bearings and belt 
+- F695-2rs = 16
+- Gt2 Belt = 5 metres
 
 
 ![Switchwire](images/image1.png)
