@@ -40,7 +40,7 @@ keep the following:
   - BTT EBB sb2209 rp2040
   - BTT Eddy Duo (Canbus or USB)
     - I had a Eddy coil, so i wired that straight through to the Raspberry pi as the toolhead did not have i2c.   
-  - MGN 9 Rails for Z
+  - 2 x MGN 9 Rails for Z
     - 450mm
   - MGN 12 Rail for X
     - 350mm - cut down to 340mm 
