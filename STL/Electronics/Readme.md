@@ -1,3 +1,3 @@
 ### I used M5 drop in tnuts and M5x 20mm 
 
-![alt text](/images/electronic-mounts.pngl)
+![alt text](images/electronic-mounts.pngl)
