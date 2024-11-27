@@ -28,7 +28,7 @@ keep the following:
   - Y motion
   - Z steppers
   - mks gen L board and electronics
-  - Optical endstop on Z and Y
+  - Optical endstop on Z and Y - if you use a EDDY usb, you can remove the Z optical endstop 
 
 ### To add:
 - Voron Stealthburner
