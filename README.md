@@ -38,7 +38,7 @@ keep the following:
 ### CanBus
   - BTT U2C USB bridge
   - BTT EBB sb2209 rp2040
-  - cnabus turorial here https://github.com/bigtreetech/EBB
+  - canbus turorial here https://github.com/bigtreetech/EBB
   
   - BTT Eddy Duo (Canbus or USB)
   - EDDY tutorial here https://github.com/bigtreetech/Eddy
