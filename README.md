@@ -42,7 +42,7 @@ keep the following:
   
   - BTT Eddy Duo (Canbus or USB)
   - EDDY tutorial here https://github.com/bigtreetech/Eddy
-    - I had a Eddy coilwhich uses I2C, so i wired that straight through to the Raspberry pi as the toolhead did not have I2C.
+    - I had a Eddy coil which uses I2C, so i wired that straight through to the Raspberry pi as the toolhead did not have I2C.
 ### MGN Rail
   - 2 x MGN 9 Rails for Z
     - 450mm
