@@ -50,8 +50,9 @@ keep the following:
     - 350mm - cut down to 340mm
 ### Raspberry Pi 4
       - Standard RPI install with KIAUH install script to install mainsail, klipperscreen, crowsnest etc.
-        - Here: https://github.com/dw-0/kiauh
-  - 5 Inch LCD - choose your own
+      - Here: https://github.com/dw-0/kiauh
+        
+### 5 Inch LCD - choose your own
       - I had a HDMI 5 inch for a Raspberry pi3 that i modded to fit, I had to mess around with HDMI adapters. I have left the stls in the folder for this one.
       - id probably go with a BTT TFT50, if i did another one as they have a DSI connection
   
