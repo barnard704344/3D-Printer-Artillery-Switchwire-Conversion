@@ -72,7 +72,7 @@ keep the following:
 
 ### Bearings and belt 
 - F695-2rs = 16
-- - or, i used these kits which ar 6 tooth and 2 smooth - https://www.aliexpress.com/item/1005005767406346.html
+ - or, i used these kits which are 6 tooth GT2 and 2 smooth - https://www.aliexpress.com/item/1005005767406346.html
 - Gt2 Belt = 5 metres
 
 
