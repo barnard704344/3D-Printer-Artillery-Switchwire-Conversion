@@ -54,7 +54,9 @@ keep the following:
         
 ### 5 Inch LCD - BTT TFT50
   - I remixed this one - https://www.printables.com/model/198864-btt-tft50-v20-casehousing-mount-revision-2/files
-  - remixed STLs are in the electronics folder.
+  - remixed STLs are in the electronics folder
+  - A BTT TFT50 5 inch touch LCD.
+  - 30cm Raspberry pi CSI cable 
   
 ### 5 volt Meanwell power supply for Raspberry Pi
 
@@ -69,6 +71,7 @@ keep the following:
 - M3 x 12 = lots
 - M3 Drop in place t nuts
 - M5 Drop inplace t nuts
+- M3 heatset inserts - standard voron ones x 2 for the BTT50 screen mount
 
 ### Bearings and belt 
 - F695-2rs = 16
