@@ -70,14 +70,14 @@ I have sourced, updated, and created everything needed for printing — **except
 
 - **BTT Eddy Duo** (CAN Bus or USB)  
 - Tutorial: [BTT Eddy](https://github.com/bigtreetech/Eddy)  
-    - My Eddy coil uses I2C, so I wired it directly to the Raspberry Pi as the toolhead lacked I2C support.  
+  - My Eddy coil uses I2C, so I wired it directly to the Raspberry Pi as the toolhead lacked I2C support.  
 
 ---
 
 ## 🛤 MGN Rails
 
-- **Z Axis:** 2 × MGN9 rails, 450 mm  
-- **X Axis:** 1 × MGN12 rail, 350 mm *(cut to 340 mm)*  
+- **Z Axis:** 2×MGN9 rails, 450mm  
+- **X Axis:** 1×MGN12 rail, 350mm *(cut to 340mm)*  
 
 ---
 
@@ -92,30 +92,30 @@ I have sourced, updated, and created everything needed for printing — **except
 
 - Remix of [this case](https://www.printables.com/model/198864-btt-tft50-v20-casehousing-mount-revision-2/files)  
 - Remixed STLs are in the **electronics** folder  
-- 30 cm Raspberry Pi CSI cable  
+- 30cm Raspberry Pi CSI cable  
 
 ---
 
 ## ⚡ Power
 
-- 5 V Meanwell PSU for Raspberry Pi  
+- 5V Meanwell PSU for Raspberry Pi  
 
 ---
 
 ## 📏 2020 V-Slot Rail
 
 Replaces the 2060 X gantry:  
-- 400 mm cut to 380 mm  
+- 400mm cut to 380mm  
 
 ---
 
 ## 🔩 Hardware
 
 **Screws & Inserts**  
-- M5 × 45 mm = 4  
-- M5 × 16 mm = lots  
-- M5 × 30 mm = 6  
-- M3 × 12 mm = lots  
+- M5×45mm = 4  
+- M5×16mm = lots  
+- M5×30mm = 6  
+- M3×12mm = lots  
 - M3 Drop-in T-nuts  
 - M5 Drop-in T-nuts  
 - M3 Heat-set inserts × 2 *(standard Voron size – for BTT50 mount)*  
@@ -123,7 +123,7 @@ Replaces the 2060 X gantry:
 **Bearings & Belts**  
 - **F695-2RS Bearings** = 16  
   - Or use this kit (6 tooth GT2 & 2 smooth): [AliExpress Link](https://www.aliexpress.com/item/1005005767406346.html)  
-- GT2 Belt = 5 m  
+- GT2 Belt = 5m  
 
 ---
 

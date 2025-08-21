@@ -1,7 +1,8 @@
-### Electronics mounting
-- I used M5 drop in tnuts and M5x 16mm for the mounts
-- I removed the welded mounts for the MKS GenL and used a printed mount. This gave acces to the USB port to be able to keep everything underneath.
-- Dont forget your common ground between the 24v power and 5v power supplies
+### Electronics Mounting
 
-![alt text](images/electronic-mounts.png)
-![alt text](images/electronics-assembled.jpg)
+- I used M5 drop-in T-nuts and M5×16mm screws for the mounts
+- I removed the welded mounts for the MKS Gen L and used a printed mount. This gave access to the USB port to be able to keep everything underneath.
+- Don't forget your common ground between the 24V power and 5V power supplies
+
+![Electronics mounts](images/electronic-mounts.png)
+![Electronics assembled](images/electronics-assembled.jpg)
