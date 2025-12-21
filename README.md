@@ -113,12 +113,14 @@ Replaces the 2060 X gantry:
 
 **Screws & Inserts**  
 - M5×45mm = 4  
-- M5×16mm = lots  
+- M5×16mm = 12 
 - M5×30mm = 6  
-- M3×12mm = lots  
+- M3×18mm = get a pack of 50 (these are for the mgn rail )  
 - M3 Drop-in T-nuts  
 - M5 Drop-in T-nuts  
 - M3 Heat-set inserts × 2 *(standard Voron size – for BTT50 mount)*  
+- M3 Heat-set inserts x 4 for the switchwire mount that holds to the MGN rail
+
 
 **Bearings & Belts**  
 - **F695-2RS Bearings** = 16  
