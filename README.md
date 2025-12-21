@@ -117,10 +117,16 @@ Replaces the 2060 X gantry:
 - M5×30mm = 6  
 - M3×8mm = get a pack of 50 (these are for the mgn rail )
 - M3x12mm = 10
+- M3x40mm = 3 (stealthurner mount)
+- M3x15mm = 2 (these are for the belt holders on the stealthburner mount) 
+- M3 nut = 3 (stealthburner mount)
+- M3x6mm = 6 (stealthburner mounting)
+
 - M3 Drop-in T-nuts  
 - M5 Drop-in T-nuts  
 - M3 Heat-set inserts × 20 *(standard Voron size - stealthburner mount, BTT eddy mount, Stealthburner )*  
 
+**You will also need vitamins for the stealthburner (screws bolts etc, please check their github) 
 
 
 **Bearings & Belts**  
